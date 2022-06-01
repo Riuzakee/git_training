@@ -4,3 +4,4 @@ I added this line from change_alice.
 I added this line from master after I added Patrick.
 I added this line from github.
 I say I added this line from github.
+I added this line from wd after fetch, before pull.
